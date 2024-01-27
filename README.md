@@ -1,6 +1,10 @@
 # Analisi de Support Vector Machines - Hyperparameter Tunning
 
 Analisis de SVMs para un problema simple de classificacion. Se examina y analiza en profundidad la teoria y el impacto de los hyperparametros.
+Existen dos notebooks en el repositorio:
+
+* SVM-practica-completa.ipynb: Contiene todo el codigo fuente de todas las preguntas de la practica.
+* Parte III-Implementacion.ipynb: Contiene el codigo fuente solo de la parte III de la practica.
 
 ### Dependencias
 
